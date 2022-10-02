@@ -4,6 +4,7 @@ public:
         int temp=abs(x);
         string s=to_string(temp);
         string an="";
+        string anss="";
         int l=0;int r=s.length()-1;
         while(l<r)
         {
